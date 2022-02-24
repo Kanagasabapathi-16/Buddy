@@ -1,4 +1,5 @@
 import React from "react";
+import dog from "../Image/dog.png"
 
 
 
@@ -13,7 +14,7 @@ const MainDog = () => {
             </p>
             <div className="img-responsive" >
             <img 
-            src='Image/dog2.png' className=" w-xs-10 img-fluid" 
+            src={dog} className=" w-xs-10 img-fluid" 
             alt="DOGGY" style={{ display: 'block', width:'35rem', marginLeft: 'auto', marginRight: 'auto', height:'auto'}}/>
 
             </div>

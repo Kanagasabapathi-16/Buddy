@@ -41,7 +41,7 @@ const Nav2 = () =>{
                 </div>
                 <div className="col-md-4 col-6 p-0 bg-warning" >
                 <Nav className="nav nav-navbar mt-3 mr-auto">
-                    <Nav.Link href="blog" className=" btn text-center bg-white text-dark w-sm-1 ml-auto ml-lg-auto   " style={{height:"44px" ,fontSize:'1rem'}}>Download App</Nav.Link>
+                    <Nav.Link href="blog" className=" btn text-center bg-white text-dark w-sm-1 ml-auto ml-lg-auto " style={{height:"44px" ,fontSize:'1rem'}}>Download App</Nav.Link>
                     <Nav.Link href="blog" className="btn bg-white  text-warning ml-lg-auto ml-auto mr-lg-5 text-white"><i className="fa-solid fa-magnifying-glass" style={{fontSize:'1rem'}}></i></Nav.Link>
                 </Nav>
                 </div>
@@ -61,18 +61,3 @@ const Nav2 = () =>{
 export default Nav2;
 
 
-
-
-/*<div class="collapse navbar-collapse" id="collapsibleNavbar">
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a class="nav-link" href="#/person/2">Link</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#/person/2">Link</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#/person/2">Link</a>
-                        </li>    
-                    </ul>
-                </div>  */

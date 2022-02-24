@@ -22,43 +22,43 @@ export default class DoctorScroll extends Component {
         <h2>Superstars this week</h2>
         <h4 class="text-muted designation">Top users who helped others by answering their questions</h4>
         <Slider {...settings}>
-        <div >
+        <div className="px-sm-2" >
           <figcaption class="jestify-content-center"><h3>Top Vets</h3></figcaption>
           <img src="https://thumbs.dreamstime.com/b/portrait-black-male-doctor-stethoscope-white-background-smiling-176051856.jpg" alt="DogEye"
            style={{width: '100px', height: '100px', borderRadius: '50%'}} class="img img-fluid"/>
           <figcaption class="jestify-content-center">Dr. Akshya Gupta</figcaption>
         </div>
-        <div >
+        <div className="px-sm-2">
           <figcaption class="jestify-content-center"><h3>Top Vets</h3></figcaption>
           <img src="https://thumbs.dreamstime.com/b/portrait-black-male-doctor-stethoscope-white-background-smiling-176051856.jpg" alt="DogEye"
            style={{width: '100px', height: '100px',borderRadius: '50%'}} class="img img-fluid"/>
           <figcaption class="jestify-content-center">Dr. Akshya Gupta</figcaption>
         </div>
-        <div >
+        <div className="px-sm-2">
           <figcaption class="jestify-content-center"><h3>Top Vets</h3></figcaption>
           <img src="https://thumbs.dreamstime.com/b/portrait-black-male-doctor-stethoscope-white-background-smiling-176051856.jpg" alt="DogEye"
            style={{width: '100px', height: '100px', borderRadius: '50%'}} class="img img-fluid"/>
           <figcaption class="jestify-content-center">Dr. Akshya Gupta</figcaption>
         </div>
-        <div >
+        <div className="px-sm-2">
           <figcaption class="jestify-content-center"><h3>Top Vets</h3></figcaption>
           <img src="https://thumbs.dreamstime.com/b/portrait-black-male-doctor-stethoscope-white-background-smiling-176051856.jpg" alt="DogEye"
            style={{width: '100px', height: '100px', borderRadius: '50%'}} class="img img-fluid"/>
           <figcaption class="jestify-content-center">Dr. Akshya Gupta</figcaption>
         </div>
-        <div >
+        <div className="px-sm-2">
           <figcaption class="jestify-content-center"><h3>Top Vets</h3></figcaption>
           <img src="https://thumbs.dreamstime.com/b/portrait-black-male-doctor-stethoscope-white-background-smiling-176051856.jpg" alt="DogEye"
            style={{width: '100px', height: '100px', borderRadius: '50%'}} class="img img-fluid"/>
           <figcaption class="jestify-content-center">Dr. Akshya Gupta</figcaption>
         </div>
-        <div >
+        <div className="px-sm-2">
           <figcaption class="jestify-content-center"><h3>Top Vets</h3></figcaption>
           <img src="https://thumbs.dreamstime.com/b/portrait-black-male-doctor-stethoscope-white-background-smiling-176051856.jpg" alt="DogEye"
            style={{width: '100px', height: '100px', borderRadius: '50%'}} class="img img-fluid"/>
           <figcaption class="jestify-content-center">Dr. Akshya Gupta</figcaption>
         </div>
-        <div >
+        <div className="px-sm-2">
           <figcaption class="jestify-content-center"><h3>Top Vets</h3></figcaption>
           <img src="https://thumbs.dreamstime.com/b/portrait-black-male-doctor-stethoscope-white-background-smiling-176051856.jpg" alt="DogEye"
            style={{width: '100px', height: '100px', borderRadius: '50%'}} class="img img-fluid"/>
@@ -67,38 +67,38 @@ export default class DoctorScroll extends Component {
         </Slider>
       </div>
 
-      <div className="container">
+      <div className="container my-3">
         <h2>Top Pet Parents</h2>
         <Slider {...settings}>
-        <div >
+        <div className="px-sm-2">
           <figcaption class="jestify-content-center"><h3>Top Vets</h3></figcaption>
           <img src="https://thumbs.dreamstime.com/b/portrait-black-male-doctor-stethoscope-white-background-smiling-176051856.jpg" alt="DogEye"
            style={{width: '100px', height: '100px', borderRadius: '50%'}} class="img img-fluid"/>
           <figcaption class="jestify-content-center">Dr. Akshya Gupta</figcaption>
-        </div><div >
+        </div><div className="px-sm-2">
           <figcaption class="jestify-content-center"><h3>Top Vets</h3></figcaption>
           <img src="https://thumbs.dreamstime.com/b/portrait-black-male-doctor-stethoscope-white-background-smiling-176051856.jpg" alt="DogEye"
            style={{width: '100px', height: '100px', borderRadius: '50%'}} class="img img-fluid"/>
           <figcaption class="jestify-content-center">Dr. Akshya Gupta</figcaption>
-        </div><div >
-          <figcaption class="jestify-content-center"><h3>Top Vets</h3></figcaption>
-          <img src="https://thumbs.dreamstime.com/b/portrait-black-male-doctor-stethoscope-white-background-smiling-176051856.jpg" alt="DogEye"
-           style={{width: '100px', height: '100px', borderRadius: '50%'}} class="img img-fluid"/>
-          <figcaption class="jestify-content-center">Dr. Akshya Gupta</figcaption>
-        </div>
-        <div >
+        </div><div className="px-sm-2">
           <figcaption class="jestify-content-center"><h3>Top Vets</h3></figcaption>
           <img src="https://thumbs.dreamstime.com/b/portrait-black-male-doctor-stethoscope-white-background-smiling-176051856.jpg" alt="DogEye"
            style={{width: '100px', height: '100px', borderRadius: '50%'}} class="img img-fluid"/>
           <figcaption class="jestify-content-center">Dr. Akshya Gupta</figcaption>
         </div>
-        <div >
+        <div className="px-sm-2">
           <figcaption class="jestify-content-center"><h3>Top Vets</h3></figcaption>
           <img src="https://thumbs.dreamstime.com/b/portrait-black-male-doctor-stethoscope-white-background-smiling-176051856.jpg" alt="DogEye"
            style={{width: '100px', height: '100px', borderRadius: '50%'}} class="img img-fluid"/>
           <figcaption class="jestify-content-center">Dr. Akshya Gupta</figcaption>
         </div>
-        <div >
+        <div className="px-sm-2">
+          <figcaption class="jestify-content-center"><h3>Top Vets</h3></figcaption>
+          <img src="https://thumbs.dreamstime.com/b/portrait-black-male-doctor-stethoscope-white-background-smiling-176051856.jpg" alt="DogEye"
+           style={{width: '100px', height: '100px', borderRadius: '50%'}} class="img img-fluid"/>
+          <figcaption class="jestify-content-center">Dr. Akshya Gupta</figcaption>
+        </div>
+        <div className="px-sm-2">
           <figcaption class="jestify-content-center"><h3>Top Vets</h3></figcaption>
           <img src="https://thumbs.dreamstime.com/b/portrait-black-male-doctor-stethoscope-white-background-smiling-176051856.jpg" alt="DogEye"
            style={{width: '100px', height: '100px', borderRadius: '50%'}} class="img img-fluid"/>

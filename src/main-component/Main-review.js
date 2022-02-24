@@ -177,7 +177,7 @@ const MainReview = () =>{
                                       <button className="btn bg-warning btn-center text-white px-3" style={{borderRadius:'20px'}}>Download Now</button>
                                     </div>
                                   </div>
-                                  <div class="col-4 m-auto">
+                                  <div class="col-4 m-auto py-sm-2">
                                     <img src="https://rukminim1.flixcart.com/image/416/416/k5fn3ww0/cases-covers/back-cover/r/z/u/tpm-vi-1915-u20-vi-y19-dog-dogs-619-original-imafz4hmjzrfdphq.jpeg?q=70" 
                                     class="card-img" style={{width:'3rem'}} alt="..."/>
                                     <div className="text-white my-2">
