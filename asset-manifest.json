@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Buddy/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Buddy/static/js/main.091a2b89.chunk.js",
+    "main.js.map": "/Buddy/static/js/main.091a2b89.chunk.js.map",
+    "runtime-main.js": "/Buddy/static/js/runtime-main.7502ce94.js",
+    "runtime-main.js.map": "/Buddy/static/js/runtime-main.7502ce94.js.map",
+    "static/css/2.a49325d2.chunk.css": "/Buddy/static/css/2.a49325d2.chunk.css",
+    "static/js/2.8cd6f1bf.chunk.js": "/Buddy/static/js/2.8cd6f1bf.chunk.js",
+    "static/js/2.8cd6f1bf.chunk.js.map": "/Buddy/static/js/2.8cd6f1bf.chunk.js.map",
+    "static/js/3.378ca03d.chunk.js": "/Buddy/static/js/3.378ca03d.chunk.js",
+    "static/js/3.378ca03d.chunk.js.map": "/Buddy/static/js/3.378ca03d.chunk.js.map",
+    "index.html": "/Buddy/index.html",
+    "static/css/2.a49325d2.chunk.css.map": "/Buddy/static/css/2.a49325d2.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Buddy/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8cd6f1bf.chunk.js.LICENSE.txt": "/Buddy/static/js/2.8cd6f1bf.chunk.js.LICENSE.txt",
+    "static/media/dog.2953101a.png": "/Buddy/static/media/dog.2953101a.png",
+    "static/media/slick-theme.css": "/Buddy/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7502ce94.js",
+    "static/css/2.a49325d2.chunk.css",
+    "static/js/2.8cd6f1bf.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.091a2b89.chunk.js"
+  ]
+}
